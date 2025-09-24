@@ -1,4 +1,4 @@
-# Capstone - Sentury Turret
+# Capstone - Sentry Turret
 Robotics Engineering Capstone Project
 
 Brady Sanger and Camden Timmons
